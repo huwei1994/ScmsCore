@@ -1,0 +1,14 @@
+{
+    "name": "huwei1994/scmscore",
+    "description": "this is  scms content management system",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huwei",
+            "email": "wei.hu@haoqitech.com.cn"
+        }
+    ],
+    "require": {},
+    "minimum-stability":"dev",
+    "autoload": {"psr-4": {"ScmsCore\\": "src/"}}
+}
