@@ -1,6 +1,6 @@
 {
     "name": "huwei1994/scmscore",
-    "description": "this is  scms content management system",
+    "description": "this time is true envirment",
     "license": "MIT",
     "authors": [
         {
@@ -8,7 +8,11 @@
             "email": "wei.hu@haoqitech.com.cn"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
-    "minimum-stability":"dev",
-    "autoload": {"psr-4": {"ScmsCore\\": "src/"}}
+    "autoload": {
+        "psr-4": {
+            "Huwei1994\\Scmscore\\":"src/"
+        }
+    }
 }
